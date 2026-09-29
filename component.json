@@ -1,0 +1,48 @@
+{
+  "type": "component",
+  "name": "global1-test-gh",
+  "children": [
+    {
+      "name": "Checkbox",
+      "nodeName": "bln-checkbox",
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "children": [],
+      "type": "core-component",
+      "expressions": [],
+      "formControl": {
+        "modelName": "checked"
+      }
+    },
+    {
+      "name": "c1",
+      "nodeName": "c1",
+      "classList": [],
+      "children": [],
+      "type": "custom-component",
+      "ownerId": "6abb4a98054ef04afc8f712e",
+      "ownerType": "component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "jwMhVTFuHmlQEo2rWESE9",
+        "name": "dir"
+      }
+    ],
+    "scripts": [],
+    "stylesheets": []
+  }
+}
